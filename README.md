@@ -1,3 +1,3 @@
 # Hello GitHub
 
-The first GitHub project. 
+This is a small demo for first connecting to GitHub. 
